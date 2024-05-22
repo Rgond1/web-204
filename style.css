@@ -1,5 +1,6 @@
 .cards{
     display: flex;
+    gap: 30px;
 }
 .vijay{
     width: 300px;
